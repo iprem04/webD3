@@ -1,0 +1,4 @@
+{
+       // Show hidden file    
+        "files.exclude": {             "**/.git": false         },   
+}
